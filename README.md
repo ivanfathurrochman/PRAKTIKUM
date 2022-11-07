@@ -4,24 +4,29 @@
 ## Tugas 1 
 - Buat program sederhada dengan input 2 buah bilangan, kemudian tentukan bilangan terbesar dari kedua bilangan tersebut
 menggunakan statement if.
-![Gambar1](pk4/lab1.1.png)
+![Gambar1](gambar1.png)
 ## Tugas 2 
 - Buat program untuk mengurutkan data berdasarkan input sejumlah data (minimal 3 variable input atau lebih), kemudian tampilkan hasilnya secara berurutan mulai dari data terkecil.
-![Gambar1](pk4/lab1.2.png)
+
+![Gambar1](gambar2.png)
 ## Tugas 3
 - Buat program dengan perulangan bertingkat (nested) for yang menghasilkan output sebagai berikut:
-![Gambar1](pk4/lab1.3.1.png)
+
+![Gambar1](gambar3.png)
 ## Tugas 4
 - Tampilkan n bilangan acak yang lebih kecil dari 0.5.
 - Nilai n diisi pada saat runtime
 - Anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya
-![Gambar1](pk4/lab1.4.png)
+
+![Gambar1](pk4/gambar4.png)
 # Lab 2
 ## Tugas Praktikum 2
 - Buat program sederhana dengan input tiga buah bilangan, dari ketiga bilangan tersebut tampilkan bilangan terbesarnya. Gunakan statement if.
-![Gambar1](pk4/lab2.1.png)
+
+![Gambar1](gambar5.png)
 - Uraikan langkah atau algoritmanya pada file README.md, sertakan juga flowchart dan screenshot hasil eksekusi program. Tampilkan 3 kondisi inputan data.
-![Gambar1](pk4/lab2.2.png)
+
+![Gambar1](pk4/gambar6.png)
 - Jadi kita disuruh untuk mencari nilai terbesar dari ketiga nilai variabel
 - Pertama-tama, kita menentukan 3 variabel terlebih dahulu
 - Setelah dtentukan, ekpresikan dengan memasukkan inputan
@@ -29,15 +34,18 @@ menggunakan statement if.
 - Ekpesikan dengan membuat satu statemen dan ekpresi pada setiap variabel
 # Lab 3 
 ## Latihan1.py
-![Gambar1](pk4/lab3.1.png)
+
+![Gambar1](gambar7.png)
 - Pertama-tama, Deklarasi dan beri inputan ke variabel dalam bentuk intreger. Saya menggunakan variabel N
 - Lalu menggunakan pengimport random untuk memberi nilai variabel secara acak
 - Memberi batasan dengan memberi variabel baru , jumlah yang bernilai 5 
 - Membuat kondisi menggunakan if dengan range(jumlah)
 - Setelah selesai membuat kondisi, ekspresikan hasil kondisi yang telah kita buat
-![Gambar1](pk4/lab3.2.png)
+
+![Gambar1](gambar8.png)
 ## Latihan2.py
-![Gambar1](pk4/lab3.3.png)
+
+![Gambar1](gambar9.png)
 - Pertama-tama, kita menggunakan maximum yang dioperasikan sebagai :
 ```
 max = 0
@@ -58,9 +66,11 @@ if x==0:
 ```
 - Seletah kondisi akhir, kita menggunakan break untuk memberhentikan adanya pengulangan 
 - Ekspresikan hasil statent dan kondisi yang telah dibuat
-![Gambar1](pk4/lab3.4.png)
+
+![Gambar1](gambar10.png)
 ## Pemograman1.py
-![Gambar1](pk4/lab3.5.png)
+
+![Gambar1](gambar11.png)
 - Pertama-tama, kita tentukan variabel dengan diberi nilai semisal :
 ```
 a = 100000000
@@ -75,4 +85,5 @@ for x in range (1, 9)
 - Bulan kedelapan mengalami penurunan sebesar 3%, mendapat laba sebesar 3%
 - Setelah mengetahui laba selama 8 bulan, tambahkan semua untuk mendapatkan total laba selama 8 bulan
 - Lalu ekspresikan hasil statement dan kondisi yang telah dibuat
-![Gambar1](pk4/lab3.6.png)
+
+![Gambar1](gambar11.png)
