@@ -2,15 +2,16 @@
 # Praktikum 4
 # Lab 1 
 ## Tugas 1 
-- Buat program sederhada dengan input 2 buah bilangan, kemudian tentukan bilangan terbesar dari kedua bilangan tersebut
+ Buat program sederhada dengan input 2 buah bilangan, kemudian tentukan bilangan terbesar dari kedua bilangan tersebut
 menggunakan statement if.
+
 ![Gambar1](gambar1.png)
 ## Tugas 2 
-- Buat program untuk mengurutkan data berdasarkan input sejumlah data (minimal 3 variable input atau lebih), kemudian tampilkan hasilnya secara berurutan mulai dari data terkecil.
+ Buat program untuk mengurutkan data berdasarkan input sejumlah data (minimal 3 variable input atau lebih), kemudian tampilkan hasilnya secara berurutan mulai dari data terkecil.
 
 ![Gambar1](gambar2.png)
 ## Tugas 3
-- Buat program dengan perulangan bertingkat (nested) for yang menghasilkan output sebagai berikut:
+ Buat program dengan perulangan bertingkat (nested) for yang menghasilkan output sebagai berikut:
 
 ![Gambar1](gambar3.png)
 ## Tugas 4
